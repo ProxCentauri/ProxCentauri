@@ -5,12 +5,12 @@
 
 ## About Me
 
-🚀 Passionate about **Gen AI, Machine Learning, Deep Learning, and Data Analytics**. Enthusiastic about **project management** and continuously seeking opportunities to enhance my skills and solve real-world problems with innovative solutions.
+🚀 Passionate about **Machine Learning, Neural Networks, and Data Analytics**. Enthusiastic about **project management** and continuously seeking opportunities to enhance my skills and solve real-world problems with innovative solutions.
 
 
 - 🔭 I’m currently working on **EnviroAI**
 
-- 🌱 I’m currently learning **Kubernetes, Docker**
+- 🌱 Currently learning **Kubernetes, Docker**
 
 - 💬 Ask me about **Machine Learning, Data Analytics, Project Management in Tech**
 
@@ -35,4 +35,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=proxcentauri&" alt="proxcentauri" /></p>
 
 
-I'm always open to discussing new opportunities and collaborations. Let's innovate together!
+**I'm always open to discussing new opportunities and collaborations. Let's innovate together!**
