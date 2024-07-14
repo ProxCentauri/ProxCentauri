@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **EnviroAI**
 
-- 🌱 Currently learning **Kubernetes, Docker**
+- 🌱 I'm currently learning **Kubernetes, Docker**
 
 - 💬 Ask me about **Machine Learning, Data Analytics, Project Management in Tech**
 
