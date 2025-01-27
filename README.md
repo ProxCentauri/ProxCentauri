@@ -8,11 +8,9 @@
 🚀 Passionate about **Machine Learning, Neural Networks, and Data Analytics**. Enthusiastic about **project management** and continuously seeking opportunities to enhance my skills and solve real-world problems with innovative solutions.
 
 
-- 🔭 I’m currently working on **EnviroAI**
+- 🔭 I’m currently working on **MenstroSync**
 
-- 🌱 I'm currently learning **Kubernetes, Docker**
-
-- 💬 Ask me about **Machine Learning, Data Analytics, Project Management in Tech**
+- 💬 Ask me about **Machine Learning, Data Analytics,Computer Vision**
 
 - 📫 How to reach me **krupali0613@gmail.com**
 
