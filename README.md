@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **MenstroSync**
 
-- 💬 Ask me about **Machine Learning, Data Analytics,Computer Vision**
+- 💬 Ask me about **Machine Learning, Data Analytics, Computer Vision**
 
 - 📫 How to reach me **krupali0613@gmail.com**
 
