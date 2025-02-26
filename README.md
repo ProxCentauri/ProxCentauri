@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **krupali0613@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/krupalithakurresume](https://tinyurl.com/krupalithakurresume)
-
 - ⚡ Fun fact **When I'm not diving into data or managing projects, you can find me on the field, enjoying sports and organizing events that bring teams together.**
 
 
